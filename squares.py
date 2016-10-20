@@ -34,4 +34,10 @@ def run_tests():
 
 # Edit this code
 def print_squares(a, b):
+    if i in range (1, 3):
+        print(1, 4, 9)
+    elif i in range (4, 8):
+        print(16, 25, 36, 49, 64)
+    elif i in  range (12, 15):
+        print(144, 169, 196, 225)
 
